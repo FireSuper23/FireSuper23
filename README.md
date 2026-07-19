@@ -1,16 +1,25 @@
-## Hi there 👋
+![Profile Views](https://komarev.com)
 
-<!--
-**FireSuper23/FireSuper23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github contribution grid snake animation](https://githubusercontent.com)
 
-Here are some ideas to get you started:
+# Hi, I'm FireSuper 👋
+### Full Stack IoT Engineer & Polyglot Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+### Languages
+![Java](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Rust](https://shields.io) ![Lua](https://shields.io) ![Python](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io)
+
+### Technologies & Frameworks
+![Discord.js](https://shields.io) ![Node.js](https://shields.io) ![JavaFX](https://shields.io) ![.NET](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Raspberry Pi](https://shields.io) ![Arduino](https://shields.io)
+
+### DevOps / Tools
+![VS Code](https://shields.io) ![Windows](https://shields.io) ![GitHub](https://shields.io) ![Linux](https://shields.io) ![Android](https://shields.io) ![Google](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
+
+---
+
+## ⚡ GitHub Stats
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
