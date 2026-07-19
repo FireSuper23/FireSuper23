@@ -15,23 +15,17 @@
 
 ### Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Languages" />
 </p>
 
 ### Technologies & Frameworks
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Frameworks" />
 </p>
 
 ### DevOps / Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Tools" />
 </p>
 
 ---
