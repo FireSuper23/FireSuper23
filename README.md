@@ -1,47 +1,43 @@
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+</p>
+
 # Hi, I'm FireSuper 👋
 ### Full Stack IoT Engineer & Polyglot Developer
-
-![Profile Views](https://komarev.com)
-
-![github contribution grid snake animation](https://githubusercontent.com)
 
 ---
 
 ## 🚀 Technologies & Tools
 
 ### Languages
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Rust](https://shields.io)
-![Lua](https://shields.io)
-![Python](https://shields.io)
-![C#](https://shields.io)
-![C++](https://shields.io)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
 ### Technologies & Frameworks
-![Discord.js](https://shields.io)
-![Node.js](https://shields.io)
-![JavaFX](https://shields.io)
-![.NET](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Raspberry Pi](https://shields.io)
-![Arduino](https://shields.io)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
 ### DevOps / Tools
-![VS Code](https://shields.io)
-![Windows](https://shields.io)
-![GitHub](https://shields.io)
-![Linux](https://shields.io)
-![Android](https://shields.io)
-![Google](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ GitHub Stats
-![GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
