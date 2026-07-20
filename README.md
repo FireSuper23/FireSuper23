@@ -1,37 +1,37 @@
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
-</div>
-
 # Hi, I'm FireSuper23 👋
 ### Full Stack IoT Engineer & Polyglot Developer
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+</p>
 
 ---
 
 ## 🚀 Technologies & Tools
 
 ### Languages
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev" alt="Languages" />
-</div>
+</p>
 
 ### Technologies & Frameworks
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev" alt="Frameworks" />
-</div>
+</p>
 
 ### DevOps / Tools
-<div align="left">
+<p align="left">
   <img src="https://skillicons.dev" alt="Tools" />
-</div>
+</p>
 
 ---
 
 ## ⚡ GitHub Stats
-<div align="center">
+<p align="center">
   <img src="https://vercel.app" width="48%" />
   <img src="https://vercel.app" width="48%" />
-</div>
+</p>
