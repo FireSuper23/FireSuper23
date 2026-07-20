@@ -1,34 +1,32 @@
 <div align="center">
-
   <img src="https://komarev.com" alt="Profile Views" />
-
-  <br />
-
-  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
-
-  <h1>Hi, I'm FireSuper23 👋</h1>
-  <h3>Full Stack IoT Engineer & Polyglot Developer</h3>
-
 </div>
+
+<div align="center">
+  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+</div>
+
+# Hi, I'm FireSuper23 👋
+### Full Stack IoT Engineer & Polyglot Developer
 
 ---
 
 ## 🚀 Technologies & Tools
 
 ### Languages
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev" alt="Languages" />
-</p>
+</div>
 
 ### Technologies & Frameworks
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev" alt="Frameworks" />
-</p>
+</div>
 
 ### DevOps / Tools
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev" alt="Tools" />
-</p>
+</div>
 
 ---
 
