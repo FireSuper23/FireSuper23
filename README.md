@@ -1,13 +1,15 @@
-<p align="center">
+<div align="center">
+
   <img src="https://komarev.com" alt="Profile Views" />
-</p>
 
-<p align="center">
+  <br />
+
   <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
-</p>
 
-# Hi, I'm FireSuper23 👋
-### Full Stack IoT Engineer & Polyglot Developer
+  <h1>Hi, I'm FireSuper23 👋</h1>
+  <h3>Full Stack IoT Engineer & Polyglot Developer</h3>
+
+</div>
 
 ---
 
@@ -31,7 +33,7 @@
 ---
 
 ## ⚡ GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://vercel.app" width="48%" />
   <img src="https://vercel.app" width="48%" />
-</p>
+</div>
