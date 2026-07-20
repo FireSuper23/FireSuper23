@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <a href="https://github.com">
+    <img src="https://komarev.com" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+  <a href="https://github.com">
+    <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+  </a>
 </p>
 
 # Hi, I'm FireSuper23 👋
@@ -15,23 +19,33 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev" alt="Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Languages" />
+  </a>
 </p>
 
 ### Technologies & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev" alt="Frameworks" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Frameworks" />
+  </a>
 </p>
 
 ### DevOps / Tools
 <p align="left">
-  <img src="https://skillicons.dev" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Tools" />
+  </a>
 </p>
 
 ---
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://vercel.app" width="48%" alt="Top Languages" />
+  </a>
 </p>
