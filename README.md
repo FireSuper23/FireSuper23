@@ -1,5 +1,7 @@
 # Hi, I'm FireSuper 👋
 ### Full Stack IoT Engineer & Polyglot Developer
+Proficient in multi-paradigm software development and network design, I am actively expanding my skillset into hardware integration to build end-to-end IoT pipelines.
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FireSuper23)
 
