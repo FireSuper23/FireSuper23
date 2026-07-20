@@ -1,6 +1,3 @@
-# Hi, I'm FireSuper23 👋
-### Full Stack IoT Engineer & Polyglot Developer
-
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
 </p>
@@ -8,6 +5,9 @@
 <p align="center">
   <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
 </p>
+
+# Hi, I'm FireSuper23 👋
+### Full Stack IoT Engineer & Polyglot Developer
 
 ---
 
