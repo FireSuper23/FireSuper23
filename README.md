@@ -3,7 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FireSuper23)
 
-![Snake animation](https://raw.githubusercontent.com/FireSuper23/FireSuper23/output/github-contribution-grid-snake.svg)
 
 ---
 
