@@ -24,6 +24,8 @@ Proficient in multi-paradigm software development and network design, I am activ
 ![Batch](https://img.shields.io/badge/Batch-4E4E4E?style=for-the-badge&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Technologies & Frameworks
 ![Discord.js](https://img.shields.io/badge/discord.js-%235865F2?style=for-the-badge&logo=discord.js&logoColor=white)
@@ -34,6 +36,10 @@ Proficient in multi-paradigm software development and network design, I am activ
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-333333?style=for-the-badge&logo=htmx&logoColor=white)
+![Meteor.js](https://img.shields.io/badge/Meteor.js-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white)
 
 ### DevOps / Tools
 ![VS Code](https://img.shields.io/badge/vs_code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -44,3 +50,7 @@ Proficient in multi-paradigm software development and network design, I am activ
 ![Google](https://img.shields.io/badge/google-%234285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
