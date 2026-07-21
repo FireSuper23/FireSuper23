@@ -54,3 +54,4 @@ Proficient in multi-paradigm software development and network design, I am activ
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![IT](https://img.shields.io/badge/IT-000000?style=for-the-badge&logo=iterm2&logoColor=white)
